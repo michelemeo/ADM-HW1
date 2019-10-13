@@ -13,4 +13,4 @@ This folder contains all the screenshot (.png file) of the exercises submitted i
 
 png files have the following form:
 
-Screenshot_n.png --> n = [0,15] denotes the chronological order in which the exercises were performed (from the last page of the HackerRank all submissions to the first, because this order is quite similar for the notebook file)
+Screenshot_n.png --> n = [0,15] denotes the chronological order in which the exercises were performed (from the last page of                        the HackerRank all submissions to the first, because this order is quite similar for the notebook file)
